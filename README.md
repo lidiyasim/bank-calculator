@@ -47,10 +47,10 @@ npm start
 Приложение будет доступно по адресу: http://localhost:3000
 
 bank-calculator/
-├── client/           # React-приложение
+├── client/          
 │   ├── src/
 │   └── public/
-├── server/           # Node.js сервер
+├── server/         
 │   ├── routes/
 │   └── index.js
 ├── .gitignore
